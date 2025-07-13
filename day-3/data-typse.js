@@ -1,5 +1,5 @@
 
-
+/*
 let count = 0
 console.log(++count)        // 1
 console.log(count)          // 1
@@ -30,7 +30,7 @@ isRaining
   ? console.log('You need a rain coat.')
   : console.log('No need for a rain coat.')
 
-  /*
+  
   alert('Welcome, My Wibe Site')
 
   let numberr = prompt('Bir sayı giriniz' ,'sayınız pozitif olsun!!')

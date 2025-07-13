@@ -1,3 +1,4 @@
+/*
 const now = new Date()
   console.log(now)
   console.log("Yıl",now.getFullYear())
@@ -41,3 +42,4 @@ const now = new Date()
 
       let hummanReadleDate = `${day} ${months[month]} ${year}, ${days[dayNumber]}, ${hour}:${minute}:${second}`
       console.log(hummanReadleDate)
+      */

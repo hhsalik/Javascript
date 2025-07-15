@@ -4,6 +4,6 @@ let cinsiyet = prompt('Cinsiyet :')
 let ders  = prompt('Ders adı :')
 let  not1 = prompt('not1 :')
 let not2 = prompt('not2 :') 
-let ort = (not2 + not1/2)
+let ort = (not2 + not1/3)
 
 console.log(ogrNo + " numaralı " + ad + "(" + cinsiyet+")" + " isimli öğrencinin" + ders + " dersinden aldığı ortalama" + ort)

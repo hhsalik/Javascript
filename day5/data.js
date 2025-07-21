@@ -152,7 +152,7 @@ console.log(numbers.indexOf(0)) // -> -1
 console.log(numbers.indexOf(1)) // -> 0
 console.log(numbers.indexOf(6)) // -> -1
 console.log(numbers.lastIndexOf(7)) // -> 9
-*/
+
 
 const num = [1, 2, 3, 4, 5]
 console.log(num.join()) // 1,2,3,4,5w
@@ -161,3 +161,22 @@ console.log(num.join('')) //AsabenehMathiasEliasBrook
 console.log(num.join('!')) //Asabeneh Mathias Elias Brook
 console.log(num.join(', ')) //Asabeneh, Mathias, Elias, Brook
 console.log(num.join(' # ')) //Asabeneh # Mathias # Elias # Brook
+
+
+const numbers = [1, 2, 3, 4, 5]
+numbers.pop() // -> remove one item from the end
+console.log(numbers) // -> [1,2,3,4]
+
+const numberss = [1, 2, 3, 4, 5]
+numberss.shift() // -> remove one item from the beginning
+console.log(numberss) // -> [2,3,4,5]
+
+const num = [1, 2, 3, 4, 5]
+num.unshift(0) // -> add one item from the beginning
+console.log(num) // -> [0,1,2,3,4,5]
+*/
+
+const num = [4,6,1,7,2,0,3,1]
+console.log(num)
+num.sort()
+console.log(num)

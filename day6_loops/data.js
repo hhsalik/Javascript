@@ -129,7 +129,7 @@ for(let i = 0; i<=n; i++){
 }
 
 for(i=1; i<=10; i++){
-    console.log("#".repeat(i))
+    console.log("#".repeat(i)) 
 }
 */
 for(let i = 0; i < 11; i++) {

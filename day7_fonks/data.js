@@ -4,4 +4,4 @@ console.log(a)
 function sayhello(){
     console.log("Merhaba Fonksiyon")
 }
-sayhello()
+sayhello();

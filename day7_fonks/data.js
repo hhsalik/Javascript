@@ -61,3 +61,26 @@ const numbers = [1, 2, 3, 4, 5];
     //calling a function
 console.log(sumArrayValues(numbers));
 
+const square = function(n) {
+  return n * n
+}
+
+console.log(square(2)) 
+
+for (let i = 0; i < 0; i++) {
+  bounceBall(). 
+  const timesBounced = i + 1
+  console.log('The ball has bounced ' + timesBounced + ' times')
+}
+
+// 
+console.log('next line of code')
+
+// This loop will run twice
+for (let i = 0; i < 2; i++) {
+  bounceBall()
+  const timesBounced = i + 1
+  console.log('The ball has bounced ' + timesBounced + ' times')")
+}
+
+console.log('next line of code')

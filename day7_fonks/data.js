@@ -1,3 +1,4 @@
+/*
 let a = 5
 console.log(a)
 
@@ -84,3 +85,26 @@ for (let i = 0; i < 2; i++) {
 }
 
 console.log('next line of code')
+
+function fullName(){
+    console.log("Hasan Hüseyin SALİK")
+}
+fullName()
+
+function fullName(firstName,lastName){
+    console.log(firstName, " ", lastName)
+}
+fullName("Hasan","Salik")
+
+function addNumbers(a,b){
+    return a+b;
+} console.log(addNumbers(10,20))
+
+function dktrgnUznlk(u,k){
+    return 2*(u+k);
+} dktrgnUznlk(45,40)
+
+function yerDegstirme(d,t){
+    return d/t;
+}
+ */

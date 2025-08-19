@@ -107,4 +107,4 @@ function dktrgnUznlk(u,k){
 function yerDegstirme(d,t){
     return d/t;
 }
- */
+ *//
